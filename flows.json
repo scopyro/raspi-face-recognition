@@ -1,0 +1,1 @@
+[{"id":"40cb993c.ca4938","type":"mongodb out","z":"8bcdd475.df51b8","mongodb":"af871a0d.b190d8","name":"","collection":"rfid","payonly":false,"upsert":false,"multi":false,"operation":"insert","x":1370,"y":720,"wires":[]},{"id":"af871a0d.b190d8","type":"mongodb","z":"","hostname":"127.0.0.1","port":"27017","db":"automation","name":""}]
